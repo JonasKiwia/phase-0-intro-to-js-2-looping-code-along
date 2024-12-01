@@ -17,7 +17,7 @@ function writeCards(names, event) {
   }
   
 
-  const messages = writeCards(["Charlie", "Samip", "Ali"], "birthday");
+  const messages = writeCards(["Juma", "Victor", "Ali"], "birthday");
   console.log(messages);
 
 
